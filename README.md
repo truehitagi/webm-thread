@@ -24,4 +24,4 @@ CLI, zsh: https://github.com/pituz/webm-thread/tree/master/tools
 CLI, дотнет: https://github.com/CherryPerry/ffmpeg-vp9-wrap
 GUI, дотнет: https://gitgud.io/nixx/WebMConverter
 
-**Оп-паста**: https://github.com/truehitagi/webm-thread/new/master?readme=1
+**Оп-паста**: https://raw.githubusercontent.com/truehitagi/webm-thread/master/README.md
